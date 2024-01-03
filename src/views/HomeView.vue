@@ -1,7 +1,7 @@
 <!--
  * @Author: liuyanxin
  * @Date: 2024-01-02 13:54:59
- * @LastEditTime: 2024-01-02 13:55:01
+ * @LastEditTime: 2024-01-02 17:11:38
  * @LastEditors: liuyanxin
  * @Description: 
  * @FilePath: /vue2-cli/src/views/HomeView.vue
@@ -20,7 +20,7 @@ import HelloWorld from "@/components/HelloWorld.vue";
 export default {
   name: "HomeView",
   components: {
-    HelloWorld,
-  },
+    HelloWorld
+  }
 };
 </script>
